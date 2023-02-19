@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0-h-1t&label=Profile%20views&color=0e75b6&style=flat" alt="r0-h-1t" /> </p>
 
-<img align="center" alt="Coding" width="850" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+
+
 
 
 
