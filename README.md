@@ -5,14 +5,12 @@
 
 
 
-<img align="center" alt="Coding" width="800" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 
 
-- 🔭 I’m currently working on **Mongo, Express, Node tech stack**
 
-- 🌱 Learning more about and studying **Open Source, Python, Web Dev**
+- 🌱 Learning more about **Open Source, Python, Web Dev**
 
 - 👯 I’m looking to collaborate **with other developers**
 
